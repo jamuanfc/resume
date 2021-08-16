@@ -1,6 +1,6 @@
 baseURL: "/"
 languageCode: "en-us"
-title: "Resume | MERT BAKIR"
+title: "Resume | Ilham Maulana"
 disableKinds: ["taxonomy", "term", "page", "section", "RSS", "sitemap", "robotsTXT", "404"]
 theme: "resume-a4"
 
@@ -68,29 +68,29 @@ params:
         - feature: about
           title: About Me
         - feature: experience
-    - features:
-        - feature: projects
-          collection: projects
-        - feature: publications
-          style: IEEE # IEEE, APA, else
-        - feature: awards
+#    - features:
+#        - feature: projects
+#          collection: projects
+#        - feature: publications
+#          style: IEEE # IEEE, APA, else
+#        - feature: awards
         - feature: certificates
           title: Certifications
-        - feature: interests
-          widget: word-list
-          style: list
+#        - feature: interests
+#          widget: word-list
+#          style: list
         
   footer:
     show: true
     credits: true
     footnote: >-
-      You can print this resume in A4 size or save as pdf. | Last update on 2020-09-01.
+      You can print this resume in A4 size or save as pdf. | Last update on 2021-08-16.
     links:
       - prefix: Contact me on
         title: Linkedin
-        url: 'https://linkedin.com/in/mertbakir/'
+        url: 'https://linkedin.com/in/ilhammaulana'
         icon: fab fa-linkedin
       - prefix: Check out my
         title: Website
-        url: 'https://mertbakir.gitlab.io/about/'
+        url: 'https://ilh.my.id/about/'
         icon: fas fa-globe

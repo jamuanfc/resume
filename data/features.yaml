@@ -1,8 +1,8 @@
 about:
-  name: Mert Bakir
-  tagline: Data Scientist
-  phone: "5070*4****"
-  email: yourmail@yourdomain
+  name: Ilham Maulana
+  tagline: Network Engineer
+  phone: "08138307****"
+  email: ilham_carikerja@outlook.com
   links:
     - title: /in/mertbakir
       url: https://tr.linkedin.com/in/mertbakir
@@ -14,43 +14,39 @@ about:
       url: https://github.com/mertbakir
       icon: fab fa-github
   details: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-    Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta.
-
-    Nam suscipit nisi a bibendum lacinia.
+    Passionate person with almost 10 Years Experience in Network Engineering.
 
 
 skills:
-  - groupName: Databases & Visualization
+  - groupName: Network Design, Implement, Operate
     list:
-      - Grafana - Kibana - PowerBI
-      - InfluxDB - TICK Stack
+      - Routing/Switching, MPLS L3/L2VPN, SDWAN
+      - Wireless, IP Services
+      - etc.
 
-  - groupName: Data Analysis & Analytics
+  - groupName: Network Troubleshooting 
     list:
-      - Python - R - SQL
-      - Excel - Minitab - SPSS
-      - GAMS - PuLP - OR Tools
+      - Top Down, Bottom Up, Divide-and-Conquer 
 
-  - groupName: Programming & Systems
+  - groupName: Automation and Security
     list:
-      - C# - Git - Docker - NGINX
-      - Linux - CentOS RHEL
+      - Linux, Ansible
+      - Cybersecurity, Cryptography, Security Concepts
+      - etc.
 
 interests:
-  - Data Science
-  - AI Applications
-  - Optimization Problems
+  - Network Engineering
+  - Network Automation
+  - Open Source
 
 languages:
-  - name: Turkish
+  - name: Indonesia
     level: Native
 
   - name: English
     level: Professional
     certificates:
-      - "YDS: 86.25 - 2018"
-      - "TOEFL: 109 - 2021"
+      - "TOEFL Prediction: 1540 - 2021"
 
 # This will use the default widget: "details-list"
 awards:
@@ -71,12 +67,22 @@ awards:
         prefix: "omg"
 
 certificates:
-  - title: "Supervised Learning: Regression"
-    subtitle: Coursera
-    date: "2020"
-    link: https://xkcd.com/605/ # This link will be on title level.
+  - title: "Cisco Certified Network Professional Enterprise"
+    subtitle: Cisco
+    date: "2015 - 2023"
+    link: https://www.credly.com/badges/419f775f-d0b7-4e09-bd17-5f93edd8a175 # This link will be on title level.
 
-  - title: "Supervised Learning: Classification"
-    subtitle: Coursera
-    date: "2020"
-    link: https://xkcd.com/388/
+  - title: "NSE 4 Network Security Professional"
+    subtitle: Fortinet
+    date: "2021 - 2023"
+    link: https://training.fortinet.com/mod/customcert/verify_certificate.php
+
+  - title: "Cisco Certified CyberOps Associate"
+    subtitle: Cisco
+    date: "2018 - 2023"
+    link: https://www.credly.com/badges/0c8a2039-827d-46cb-a185-a07c776d3e80 # This link will be on title level.
+
+  - title: "CCNA"
+    subtitle: Cisco
+    date: "2012 - 2023"
+    link: https://www.credly.com/badges/5fdacbf1-9356-42ac-98e6-fc912cf881c3 # This link will be on title level.
