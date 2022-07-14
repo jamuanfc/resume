@@ -14,29 +14,26 @@ about:
       url: https://github.com/mertbakir
       icon: fab fa-github
   details: |
-    Passionate person with almost 10 Years Experience in Network Engineering.
+    Passionate person with 10 Years Experience in Network Engineering.
 
 
 skills:
-  - groupName: Network Design, Implement, Operate
+  - groupName: Technology
     list:
       - Routing/Switching, MPLS L3/L2VPN, SDWAN
       - Wireless, IP Services
       - etc.
 
-  - groupName: Network Troubleshooting 
+  - groupName: Product 
     list:
-      - Top Down, Bottom Up, Divide-and-Conquer 
-
-  - groupName: Automation and Security
-    list:
-      - Linux, Ansible
-      - Cybersecurity, Cryptography, Security Concepts
-      - etc.
+      - Fortigate, FortiManager, FortiAnalyzer
+      - Cisco Catalyst 4500 Series
 
 interests:
   - Network Engineering
   - Network Automation
+  - Network Security
+  - Cloud Computing
   - Open Source
 
 languages:
@@ -46,7 +43,7 @@ languages:
   - name: English
     level: Professional
     certificates:
-      - "TOEFL Prediction: 1540 - 2021"
+      - "TOEFL PBT: 503 - 2022"
 
 # This will use the default widget: "details-list"
 awards:
@@ -67,10 +64,15 @@ awards:
         prefix: "omg"
 
 certificates:
-  - title: "Cisco Certified Network Professional Enterprise"
+  - title: "Cloud Digital Leader"
+    subtitle: Google
+    date: "2022 - 2025"
+    link: https://www.credential.net/d7d9d696-2c23-494e-a0a4-724489e875a0 # This link will be on title level.
+
+  - title: "Cisco Certified Network Professional Service Provider"
     subtitle: Cisco
-    date: "2015 - 2023"
-    link: https://www.credly.com/badges/419f775f-d0b7-4e09-bd17-5f93edd8a175 # This link will be on title level.
+    date: "2022 - 2025"
+    link: https://www.credly.com/badges/2c163f5b-420f-45f8-99e1-393192968826/ # This link will be on title level.
 
   - title: "NSE 4 Network Security Professional"
     subtitle: Fortinet
@@ -79,10 +81,15 @@ certificates:
 
   - title: "Cisco Certified CyberOps Associate"
     subtitle: Cisco
-    date: "2018 - 2023"
+    date: "2018 - 2025"
     link: https://www.credly.com/badges/0c8a2039-827d-46cb-a185-a07c776d3e80 # This link will be on title level.
+
+  - title: "Cisco Certified Network Professional Enterprise"
+    subtitle: Cisco
+    date: "2015 - 2025"
+    link: https://www.credly.com/badges/419f775f-d0b7-4e09-bd17-5f93edd8a175 # This link will be on title level.
 
   - title: "CCNA"
     subtitle: Cisco
-    date: "2012 - 2023"
+    date: "2012 - 2025"
     link: https://www.credly.com/badges/5fdacbf1-9356-42ac-98e6-fc912cf881c3 # This link will be on title level.

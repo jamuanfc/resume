@@ -50,7 +50,7 @@ params:
   css:
     - custom.scss
   header:
-    avatar: avatar.jpg
+    avatar: img/foto.jpg
     contact: true
     tagline: true
     links: false
@@ -84,7 +84,7 @@ params:
     show: true
     credits: true
     footnote: >-
-      You can print this resume in A4 size or save as pdf. | Last update on 2021-08-16.
+      You can print this resume in A4 size or save as pdf. | Last update on 2022-07-14.
     links:
       - prefix: Contact me on
         title: Linkedin
