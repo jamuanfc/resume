@@ -27,7 +27,7 @@ skills:
   - groupName: Product 
     list:
       - Fortigate, FortiManager, FortiAnalyzer
-      - Cisco Catalyst 4500 Series
+      - IOS, IOS-XR, Cisco Catalyst 4500 Series
 
 interests:
   - Network Engineering
